@@ -14,3 +14,6 @@ PRD (product requirements document) -> generate AI code/ debugging, test -> huma
 
 ### CLI Codex
 - open powershell 
+
+## 주식 자동매매 environment
+- ![alt text](image.png)
